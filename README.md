@@ -9,8 +9,7 @@
  
  Step 2: Copy the `L109' directory of the 'Training_Projection_Data' of the challenge dataset to our resposity folder and extract the compressed file 'DICOM-CT-PD_FD.zip' in the `L109' folder. The file structure should looks like this:
 <pre>
-.
-├── .git                
+.           
 ├── example                                          # Example script
 ├── helical_curve                                    # Source files
 ├── images                                           # Some reconstructed images

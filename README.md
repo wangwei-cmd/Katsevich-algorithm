@@ -26,5 +26,6 @@
 step 3: run the 'rec_L109.m' escript in the 'example' folder.
 
 Some reconstructed images looks like this:
-![](https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_1.png)| width=100) ![](./images/L109_100.png| width=100) ![](./images/L109_250.png| width=100)
+
+![](https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_1.png)| width=33) ![](https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_100.png) ![](https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_250.png| width=100)
  

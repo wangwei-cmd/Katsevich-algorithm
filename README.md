@@ -26,7 +26,7 @@
 </pre>
 step 3: run the 'rec_L109.m' escript in the 'example' folder.
 
-Some reconstructed images looks like this:
+**Some reconstructed images looks like this:**
 
 <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/L109_1.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/L109_20.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/L109_128.png" width=30%>
 
@@ -45,13 +45,14 @@ Step 1: Download the dataset of the challenge (This may need contact the challen
 │   ├── dcm_000          
 │   │   ├── mAs_vector_9000.bin
 │   │   ├── proj_0001.dcm
-                             ...
+│   │   ├── proj_0002.dcm
+                 ...
 │   │   ├── proj_9000.dcm   
 ├── LICENSE
 └── README.md
 </pre>
 step 3: run the 'rec_dcm000.m' escript in the 'example' folder.
 
-Some reconstructed images looks like this:
+**Some reconstructed images looks like this:**
 
 <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_1.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_100.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_350.png" width=30%>

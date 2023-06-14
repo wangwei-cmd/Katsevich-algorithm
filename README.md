@@ -5,15 +5,15 @@
  
  ##Exapmle 1: Reconstruct CT images from the data subset `L109' of the '2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge'.
  
- Step 1: Download the dataset of the challenge from https://aapm.app.box.com/s/eaw4jddb53keg1bptavvvd1sf4x3pe9h.
+ Step 1:   Download the dataset of the challenge from https://aapm.app.box.com/s/eaw4jddb53keg1bptavvvd1sf4x3pe9h.
  
- Step 2: Copy the `L109' directory of the 'Training_Projection_Data' of the challenge dataset to our resposity folder and extract the compressed file 'DICOM-CT-PD_FD.zip' in the `L109' folder. The file structure should looks like this:
+ Step 2:   Copy the `L109' directory of the 'Training_Projection_Data' of the challenge dataset to our resposity folder and extract the compressed file 'DICOM-CT-PD_FD.zip' in the `L109' folder. The file structure should looks like this:
 <pre>
 ├── .git                
 ├── example                                          # example script
 ├── helical_curve                                    # Source files
 ├── L109                                             # dataset folder
-│       ├── DICOM-CT-PD_FD          
+│   ├── DICOM-CT-PD_FD          
 │   │   ├── L109_4M_100kv_fulldose1.00001.dcm   
 │   │   ├── L109_4M_100kv_fulldose1.00002.dcm  
                              ...

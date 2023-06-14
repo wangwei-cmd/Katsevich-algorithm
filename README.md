@@ -29,11 +29,11 @@ Some reconstructed images looks like this:
 
 <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/L109_1.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/L109_20.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/L109_128.png" width=30%>
 
-**##Exapmle 1: Reconstruct CT images from the data subset 'dcm000' of the 'Truth-Based CT (TrueCT) Reconstruction Challenge'.**
+**##Exapmle 2: Reconstruct CT images from the data subset 'dcm000' of the 'Truth-Based CT (TrueCT) Reconstruction Challenge'.**
 
-Step 1: Download the dataset of the challenge from https://aapm.app.box.com/s/eaw4jddb53keg1bptavvvd1sf4x3pe9h.
+Step 1: Download the dataset of the challenge (This may need contact the challenge organizer https://www.aapm.org/GrandChallenge/TrueCT/).
  
- Step 2: Copy the 'L109' directory of the 'Training_Projection_Data' of the challenge dataset to our resposity folder and extract the compressed file 'DICOM-CT-PD_FD.zip' in the 'L109' folder. The file structure should looks like this:
+ Step 2: Copy the 'dcmproj_copd' directory of  the challenge dataset to our resposity folder. The file structure should looks like this:
 <pre>
 .           
 ├── example                                          # Example script
@@ -52,4 +52,4 @@ step 3: run the 'rec_dcm000.m' escript in the 'example' folder.
 
 Some reconstructed images looks like this:
 
-<img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_1.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_100.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_512.png" width=30%>
+<img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_1.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_100.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_350.png" width=30%>

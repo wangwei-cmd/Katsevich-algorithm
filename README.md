@@ -33,7 +33,7 @@ step 3: run the 'rec_L109.m' script in the 'example' folder.
 # Example 2
 **##Exapmle 2: Reconstruct CT images from the data subset 'dcm000' of the 'Truth-Based CT (TrueCT) Reconstruction Challenge'.**
 
-Step 1: Download the dataset of the challenge (This may need contact the challenge organizer https://www.aapm.org/GrandChallenge/TrueCT/).
+Step 1: Download the dataset of the challenge (This may needs to contact the challenge organizer https://www.aapm.org/GrandChallenge/TrueCT/).
  
  Step 2: Copy the 'dcmproj_copd' directory of  the challenge dataset to our resposity folder. The file structure should looks like this:
 <pre>

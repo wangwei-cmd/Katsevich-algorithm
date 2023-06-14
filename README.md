@@ -11,9 +11,10 @@
 <pre>
 .
 ├── .git                
-├── example                                          # example script
+├── example                                          # Example script
 ├── helical_curve                                    # Source files
-├── L109                                             # dataset folder
+├── images                                           # Some reconstructed images
+├── L109                                             # Dataset folder
 │   ├── DICOM-CT-PD_FD          
 │   │   ├── L109_4M_100kv_fulldose1.00001.dcm   
 │   │   ├── L109_4M_100kv_fulldose1.00002.dcm  
@@ -24,4 +25,5 @@
 └── README.md
 </pre>
 step 3: run the 'rec_L109.m' escript in the 'example' folder.
+![plot](./images/L109_1.png)
  

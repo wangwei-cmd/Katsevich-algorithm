@@ -24,7 +24,7 @@
 ├── LICENSE
 └── README.md
 </pre>
-step 3: run the 'rec_L109.m' escript in the 'example' folder.
+step 3: run the 'rec_L109.m' script in the 'example' folder.
 
 **Results. Some reconstructed images looks like this:**
 
@@ -51,7 +51,7 @@ Step 1: Download the dataset of the challenge (This may need contact the challen
 ├── LICENSE
 └── README.md
 </pre>
-step 3: run the 'rec_dcm000.m' escript in the 'example' folder.
+step 3: run the 'rec_dcm000.m' script in the 'example' folder.
 
 **Results. Some reconstructed images looks like this:**
 

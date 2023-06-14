@@ -24,5 +24,7 @@
 └── README.md
 </pre>
 step 3: run the 'rec_L109.m' escript in the 'example' folder.
-![plot](./images/L109_1.png)
+
+Some reconstructed images looks like this:
+![plot](./images/L109_1.png| width=100) ![plot](./images/L109_100.png| width=100) ![plot](./images/L109_250.png| width=100)
  

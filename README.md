@@ -3,6 +3,11 @@
  
  Most of the codes in the toolbox are vectorized and so the computations can be transfered from CPU and GPU. In the toolbox, we provide both the CPU and GPU implementations and the switching is controlled by setting the value of parameter 'usegpu' to be 0 or 1. We provide two examples here to demonstrate how to use our toolbox.
  
+#  Dependencies
+Test on Matlab R2023a.
+if you use GPu, about 24Gb GPU memory is needed.
+ 
+ 
  # Example 1
  **##Exapmle 1: Reconstruct CT images from the data subset 'L109' of the '2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge'.**
  

@@ -23,4 +23,5 @@
 ├── LICENSE
 └── README.md
 <pre>
+step 3: run the 'rec_L109.m' escript in the 'example' folder.
  

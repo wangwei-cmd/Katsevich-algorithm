@@ -31,7 +31,7 @@ If you use GPU, about 24Gb GPU memory is needed.
 </pre>
 step 3: run the 'rec_L109.m' script in the 'example' folder.
 
-**Results. Some reconstructed images looks like this:**
+**Results. Some reconstructed images look like this:**
 
 <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/L109_1.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/L109_20.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/L109_128.png" width=30%>
 
@@ -58,6 +58,6 @@ Step 1: Download the dataset of the challenge (This may needs to contact the cha
 </pre>
 step 3: run the 'rec_dcm000.m' script in the 'example' folder.
 
-**Results. Some reconstructed images looks like this:**
+**Results. Some reconstructed images look like this:**
 
 <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_1.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_100.png" width=30%> <img src="https://github.com/wangwei-cmd/KAT/blob/main/images/dcm000_350.png" width=30%>
